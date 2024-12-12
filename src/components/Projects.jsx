@@ -12,32 +12,40 @@ const Projects = () => {
         },
         {
             id:2,
+            src:'/images/project6.png',
+            title:'My New Protfolio',
+            href:'https://github.com/7569954965/Protfolio',
+            style:'shadow-slate-950'
+        },
+        {
+            id:3,
             src:'/images/project2.png',
             title:'Bakery Website',
             href:'https://github.com/7569954965/BakeryWeb',
             style:'shadow-white'
         },
         {
-            id:3,
+            id:4,
             src:'/images/project3.png',
             title:'Git Hub Profile',
             href:'https://github.com/7569954965/GItHubProfileSearching',
             style:'shadow-gray-500'
         },
         {
-            id:4,
+            id:5,
             src:'/images/project4.png',
             title:'My First Protfolio',
             href:'https://github.com/7569954965/My-Portfolio',
             style:'shadow-red-500'
         },
         {
-            id:5,
+            id:6,
             src:'/images/project5.png',
             title:'Gallery App',
             href:'https://github.com/7569954965/Gallery-Project',
             style:'shadow-cyan-400'
         },
+        
         
         
     ]
