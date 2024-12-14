@@ -5,10 +5,10 @@ const Projects = () => {
     const techs=[
         {
             id:1,
-            src:'/images/project1.png',
-            title:'Todo List',
-            href:'https://github.com/7569954965/TodoListProject',
-            style:'shadow-pink-400'
+            src:'/images/project7.png',
+            title:'FlipCart-Clone',
+            href:'https://github.com/7569954965/FlipCartClone',
+            style:'shadow-white'
         },
         {
             id:2,
@@ -45,6 +45,13 @@ const Projects = () => {
             href:'https://github.com/7569954965/Gallery-Project',
             style:'shadow-cyan-400'
         },
+        {
+            id:7,
+            src:'/images/project1.png',
+            title:'Todo List',
+            href:'https://github.com/7569954965/TodoListProject',
+            style:'shadow-pink-400'
+        }
         
         
         
