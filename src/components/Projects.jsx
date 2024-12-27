@@ -50,7 +50,7 @@ const Projects = () => {
             src:'/images/project9.png',
             title:'Rock Paper Scissor',
             href:'https://github.com/7569954965/Rock-Paper-Scissors-Game',
-            style:'shadow-white-400'
+            style:'shadow-white'
         }
         
         
