@@ -33,10 +33,10 @@ const Projects = () => {
         },
         {
             id:5,
-            src:'/images/project4.png',
-            title:'My First Protfolio',
-            href:'https://github.com/7569954965/My-Portfolio',
-            style:'shadow-red-500'
+            src:'/images/project8.png',
+            title:'Weather-App-Project',
+            href:'https://github.com/7569954965/Weather-App-Project',
+            style:'shadow-pink-500'
         },
         {
             id:6,
@@ -47,10 +47,10 @@ const Projects = () => {
         },
         {
             id:7,
-            src:'/images/project1.png',
-            title:'Todo List',
-            href:'https://github.com/7569954965/TodoListProject',
-            style:'shadow-pink-400'
+            src:'/images/project9.png',
+            title:'Rock Paper Scissor',
+            href:'https://github.com/7569954965/Rock-Paper-Scissors-Game',
+            style:'shadow-white-400'
         }
         
         
